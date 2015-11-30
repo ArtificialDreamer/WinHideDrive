@@ -4,8 +4,11 @@ Versteckt beliebige Laufwerke im Arbeitsplatz &amp; Windows Explorer
 <img src="../master/picture/win10.overview.png?raw=true "Übersicht"" width="30%"></img> <img src="../master/picture/win10.settings.applied.png?raw=true "Einstellungen übernommen"" width="30%"></img> 
 
 WinHideDrive.au3 - Anwendung als Autoit-Quellcode (www.autoitscript.com)
+
 WinHideDrive.exe - Ausführbare Version 32 Bit Version der Anwendung (Portable)
+
 WinHideDrive.ico - Das genutzte Anwendungsicon (www.typicons.com)	
+
 WinHideDrive_x64.exe - Ausführbare Version 64 Bit Version der Anwendung (Portable)
 
 Getestet mit:
