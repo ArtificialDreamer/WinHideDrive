@@ -13,8 +13,7 @@ WinHideDrive.ico - Das genutzte Anwendungsicon (www.typicons.com)
 
 WinHideDrive_x64.exe - Ausführbare 64 Bit Version der Anwendung (Portable)
 
-Funktionsweise:
-Setzt den Registry-Wert NoDrives in HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer.
+Funktionsweise:<br>Setzt den Registry-Wert NoDrives in<br>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer.
 
 Getestet mit:
 - Windows XP 32 Bit
