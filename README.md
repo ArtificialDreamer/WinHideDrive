@@ -5,10 +5,12 @@ Werden die Laufwerke direkt angesprochen (z.B. in der Suchleiste des Explorers o
 
 <img src="../master/picture/win10.overview.png?raw=true "Übersicht"" width="30%"></img> <img src="../master/picture/win10.settings.applied.png?raw=true "Einstellungen übernommen"" width="30%"></img> 
 
+- WinHideDrive_x64.exe - Ausführbare 64 Bit Version der Anwendung
+- WinHideDrive.exe - Ausführbare 32 Bit Version der Anwendung
 - WinHideDrive.au3 - Anwendung als Autoit-Quellcode (www.autoitscript.com)
-- WinHideDrive.exe - Ausführbare 32 Bit Version der Anwendung (Portable)
 - WinHideDrive.ico - Das genutzte Anwendungsicon (www.typicons.com)	
-- WinHideDrive_x64.exe - Ausführbare 64 Bit Version der Anwendung (Portable)
+
+Keine Installation notwendig. Entsprechende .exe herunterladen und ausführen.
 
 Funktionsweise:<br>Setzt den Registry-Wert NoDrives in<br>HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Policies\Explorer.
 
